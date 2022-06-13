@@ -9,3 +9,7 @@ pip install flask-login
 pip install flask-sqlalchemy
 ```
 
+## aktifkan env 
+```
+.\env\Scripts\activate
+```
